@@ -1,1 +1,2 @@
-#  This is my FIRST-PROJECT in Git.
+#   FIRST-PROJECT 
+This is my FIRST-PROJECT in Git.
